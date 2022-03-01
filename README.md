@@ -76,3 +76,11 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git push origin develop
 </code>
 </pre>
+
+## Quand On Veut Faire Un fix
+
+<pre>
+<code>
+	git flow hotfix start nomHotFix
+</code>
+</pre>
