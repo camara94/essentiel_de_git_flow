@@ -42,3 +42,12 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 </code>
 </pre>
 
+
+## Quand On finit Une Fonctionnalité
+
+<pre>
+<code>
+	git flow feature finish nomBranch
+</code>
+</pre>
+
