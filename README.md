@@ -9,3 +9,11 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git flow init
 </code>
 </pre>
+
+## Pour Demarrer Une Nouvelle Fonctionnalité
+
+<pre>
+<code>
+	git flow feature start nomBranch
+</code>
+</pre>
