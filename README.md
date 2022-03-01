@@ -66,3 +66,13 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git flow release finish version
 </code>
 </pre>
+
+## Quand On Veut Publier Notre Release 
+
+<pre>
+<code>
+	git push --tag
+	git push origin main
+	git push origin develop
+</code>
+</pre>
