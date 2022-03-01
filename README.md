@@ -34,3 +34,11 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 </code>
 </pre>
 
+## Pour Récuperer Une Modification A distance
+
+<pre>
+<code>
+	git flow feature pull origin nomBranch
+</code>
+</pre>
+
