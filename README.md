@@ -25,3 +25,12 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git branch
 </code>
 </pre>
+
+## Pour Pousher(Envoyer à distance) Une Modification
+
+<pre>
+<code>
+	git flow feature publish nomBranch
+</code>
+</pre>
+
