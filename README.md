@@ -17,3 +17,11 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git flow feature start nomBranch
 </code>
 </pre>
+
+## Pour Vérifier Quelle Branch On est Actuellement
+
+<pre>
+<code>
+	git branch
+</code>
+</pre>
