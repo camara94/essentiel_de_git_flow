@@ -84,3 +84,11 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git flow hotfix start nomHotFix
 </code>
 </pre>
+
+## Pour Afficher Les Historiques
+
+<pre>
+<code>
+	git log --graph --oneline --first-parent nomDeLaBranch
+</code>
+</pre>
