@@ -51,3 +51,10 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 </code>
 </pre>
 
+## Quand On Veut Créer Un Release
+
+<pre>
+<code>
+	git flow release start version
+</code>
+</pre>
