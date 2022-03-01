@@ -92,3 +92,8 @@ git-flow est un modèle de branche, qui est fourni avec de la documentation, et 
 	git log --graph --oneline --first-parent nomDeLaBranch
 </code>
 </pre>
+
+## Liens Utils
+
+* [https://mindsers.blog/fr/post/gitflow-la-methodologie-et-la-pratique/](https://mindsers.blog/fr/post/gitflow-la-methodologie-et-la-pratique/)
+* [https://grafikart.fr/tutoriels/git-flow-742](https://grafikart.fr/tutoriels/git-flow-742)
